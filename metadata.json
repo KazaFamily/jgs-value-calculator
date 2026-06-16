@@ -1,0 +1,6 @@
+{
+  "name": "Value Calculator",
+  "description": "Multilingual mobile-first value calculator comparing business segment baselines with Comarch CLM Cloud sales impact estimates in English and Japanese.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
